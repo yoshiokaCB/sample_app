@@ -12,6 +12,7 @@ end
 group :test do
   gem 'selenium-webdriver'
   gem 'capybara'
+  gem "minitest"
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
